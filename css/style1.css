@@ -1,0 +1,66 @@
+h1{
+    color:orangered
+}
+
+.largeTitle {
+    color:mediumturquoise
+}
+
+.largeTitle{
+    font-family: 'Audiowide', sans-serif
+}
+
+p{
+    color:orange
+}
+
+.no-margin{
+    background:indigo
+}
+
+body{
+    font-family: 'Orbitron', sans-serif
+}
+
+a{
+    color:orange
+}
+
+body{
+    background: midnightblue
+}
+
+.TextBack{
+    background:indigo
+}
+
+.h12{
+    color:mediumturquoise
+}
+
+.h12{
+    background:indigo
+}
+
+.normaltext{
+    font: size 20px;
+}
+
+p{
+    font: size 20px;
+}
+
+.imagetext{
+    color: magenta
+}
+
+.imagetext{
+    font: size 12px;
+}
+
+.img2{
+    height: 600px;
+    width: 750px;
+}
+
+
